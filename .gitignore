@@ -2,3 +2,5 @@ subject.pdf
 *.gpt
 *.openai
 *.mcp
+.aider*
+.idea/
